@@ -18,4 +18,4 @@ real-world data and guidelines used for synthesizing data. This approach seeks t
 more accessible and practical for healthcare professionals, bridging the gap between complex AI
 technologies and everyday clinical applications.
 
-State of the art papers: https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
+**State of the art papers**: https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
