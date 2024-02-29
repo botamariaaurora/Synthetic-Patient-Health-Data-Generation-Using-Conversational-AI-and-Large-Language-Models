@@ -19,4 +19,5 @@ more accessible and practical for healthcare professionals, bridging the gap bet
 technologies and everyday clinical applications.
 
 **State of the art papers**: https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
+
 **Agenda suggestion for next meeting 6.03.2024:** https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit
