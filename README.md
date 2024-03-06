@@ -28,3 +28,5 @@ technologies and everyday clinical applications.
 **Initial Pipeline**: https://drive.google.com/file/d/1XMnE-PdrOR-j6rpSO7FXYdPPj5sErXq3/view?usp=sharing
 
 **📅 Next Scheduled Meetings:** 6.03.2024 10:00-10:45, 15.03.2024 13:15-14:00
+
+**Gannt Chart Draft:** https://drive.google.com/file/d/1ED0JKXPVFLZJsBbJJVSB00ql_BM9DXMM/view?usp=sharing
