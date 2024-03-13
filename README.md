@@ -21,7 +21,9 @@ technologies and everyday clinical applications.
 
 **🤔 State of the art papers**: https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
 
-**📋 Agenda suggestion for next meeting 6.03.2024:** [https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit](https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit?usp=sharing)https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit?usp=sharing
+**📋 Agenda suggestion for next meeting 15.03.2024:** https://docs.google.com/document/d/1smT2DTMNG_CbiJQ45Tx2MuxzRu3T8JyJvMcVOG7NxQQ/edit?usp=sharing
+
+**📋 Agenda suggestion for meeting 6.03.2024:** [https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit](https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit?usp=sharing)https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit?usp=sharing
 
 **Research Questions** https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
 
