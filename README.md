@@ -34,3 +34,5 @@ technologies and everyday clinical applications.
 **Gannt Chart Draft:** https://drive.google.com/file/d/1ED0JKXPVFLZJsBbJJVSB00ql_BM9DXMM/view?usp=sharing
 
 **Report:** https://www.overleaf.com/2996128184nyxkhtnzxvsv#6efd5f
+# **Phase 2:**
+**Task division**
