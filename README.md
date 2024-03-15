@@ -21,18 +21,18 @@ technologies and everyday clinical applications.
 # **Phase 1:**
 * **🤔 State of the art papers**: https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
 
-**📋 Agenda suggestion for next meeting 15.03.2024:** https://docs.google.com/document/d/1smT2DTMNG_CbiJQ45Tx2MuxzRu3T8JyJvMcVOG7NxQQ/edit?usp=sharing
+* **📋 Agenda suggestion for next meeting 15.03.2024:** https://docs.google.com/document/d/1smT2DTMNG_CbiJQ45Tx2MuxzRu3T8JyJvMcVOG7NxQQ/edit?usp=sharing
 
-**📋 Agenda suggestion for meeting 6.03.2024:** [https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit](https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit?usp=sharing)https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit?usp=sharing
+* **📋 Agenda suggestion for meeting 6.03.2024:** [https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit](https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit?usp=sharing)https://docs.google.com/document/d/1SpEhd3o1PvfAQpnfE7HJ4aV_ceH8jufSevIjU9dPxrA/edit?usp=sharing
 
-**Research Questions** https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
+* **Research Questions** https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
 
-**Initial Pipeline**: https://drive.google.com/file/d/1XMnE-PdrOR-j6rpSO7FXYdPPj5sErXq3/view?usp=sharing
+* **Initial Pipeline**: https://drive.google.com/file/d/1XMnE-PdrOR-j6rpSO7FXYdPPj5sErXq3/view?usp=sharing
 
-**📅 Next Scheduled Meetings:** 6.03.2024 10:00-10:45, 15.03.2024 13:15-14:00
+* **📅 Next Scheduled Meetings:** 6.03.2024 10:00-10:45, 15.03.2024 13:15-14:00
 
-**Gannt Chart Draft:** https://drive.google.com/file/d/1ED0JKXPVFLZJsBbJJVSB00ql_BM9DXMM/view?usp=sharing
+* **Gannt Chart Draft:** https://drive.google.com/file/d/1ED0JKXPVFLZJsBbJJVSB00ql_BM9DXMM/view?usp=sharing
 
-**Report:** https://www.overleaf.com/2996128184nyxkhtnzxvsv#6efd5f
+* **Report:** https://www.overleaf.com/2996128184nyxkhtnzxvsv#6efd5f
 # **Phase 2:**
-**Task division**
+* **Task division**
