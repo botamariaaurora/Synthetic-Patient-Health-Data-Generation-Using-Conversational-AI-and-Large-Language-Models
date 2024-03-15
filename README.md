@@ -35,4 +35,4 @@ technologies and everyday clinical applications.
 
 * **Report:** https://www.overleaf.com/2996128184nyxkhtnzxvsv#6efd5f
 # **Phase 2:**
-* **Task division**
+* **Task division:** https://docs.google.com/document/d/1d6dnG-uJXu1UF4h7IHu0oszDZylle-ubn2bHmILzZhI/edit?usp=sharing
