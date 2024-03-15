@@ -18,7 +18,7 @@ data with 20 important diabetes observations based on the US population” or in
 real-world data and guidelines used for synthesizing data. This approach seeks to make generative models
 more accessible and practical for healthcare professionals, bridging the gap between complex AI
 technologies and everyday clinical applications.
-
+# **Phase 1: **
 **🤔 State of the art papers**: https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
 
 **📋 Agenda suggestion for next meeting 15.03.2024:** https://docs.google.com/document/d/1smT2DTMNG_CbiJQ45Tx2MuxzRu3T8JyJvMcVOG7NxQQ/edit?usp=sharing
