@@ -36,5 +36,5 @@ technologies and everyday clinical applications.
 * **Report:** https://www.overleaf.com/2996128184nyxkhtnzxvsv#6efd5f
 # **Phase 2:**
 * **Task division:** https://docs.google.com/document/d/1d6dnG-uJXu1UF4h7IHu0oszDZylle-ubn2bHmILzZhI/edit?usp=sharing
-**Agenda 07.05.2024:** https://docs.google.com/document/d/1k7B-N7keAZUcvgVRXHzchoxkHoJlotUT94LocM_BQfc/edit?usp=sharing
-**Drive Link:** https://drive.google.com/drive/folders/1RIBgXQPFIJhbWA4kMKijyY5QPRc9K4gn?usp=sharing
+* **Agenda 07.05.2024:** https://docs.google.com/document/d/1k7B-N7keAZUcvgVRXHzchoxkHoJlotUT94LocM_BQfc/edit?usp=sharing
+* **Drive Link:** https://drive.google.com/drive/folders/1RIBgXQPFIJhbWA4kMKijyY5QPRc9K4gn?usp=sharing
