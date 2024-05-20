@@ -1,0 +1,26 @@
+{
+    "columns": {
+        "gender": {
+            "sdtype": "categorical"
+        },
+        "age": {
+            "sdtype": "numerical"
+        },
+        "initial_diagnosis": {
+            "sdtype": "categorical"
+        },
+        "primary_icd9_code": {
+            "sdtype": "numerical"
+        },
+        "hospital_expire_flag": {
+            "sdtype": "categorical"
+        },
+        "expire_flag": {
+            "sdtype": "categorical"
+        },
+        "hospital_stay_hours": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
