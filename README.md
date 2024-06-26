@@ -48,6 +48,6 @@ To set up the environment for this project, follow these steps:
    Open a terminal or command prompt and navigate to your project directory. Then, run the following commands to install the necessary Python packages with their specific versions:
 
    ```bash
-   pip install sdv==1.6.0  # This package is likely used for data validation tasks.
-   pip install rdt==1.9.0  # The purpose of this package (rdt) is unclear. Consider adding a brief explanation.
-   pip install dp_cgans==0.0.6  # This package name suggests it's related to Deep Generative Adversarial Networks (GANs).
+   pip install sdv==1.6.0 
+   pip install rdt==1.9.0  
+   pip install dp_cgans==0.0.6  
