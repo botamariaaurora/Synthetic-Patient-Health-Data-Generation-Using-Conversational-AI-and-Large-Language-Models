@@ -36,6 +36,7 @@ To facilitate the reproducibility of our results, we have organized the code und
 * **Layman's Blog Post:** https://drive.google.com/file/d/1sv6Im0dQi9PFF6GMNrOiutpH5TRHC7w0/view?usp=share_link
 
 * # **Phase 3:**
+* **Agenda 17.06.2024:** https://drive.google.com/file/d/1W9zvD328VkMqAaygsCHjM8CRJOgWNmDq/view?usp=sharing
 * **Final Report** https://www.overleaf.com/read/mpxmqzktdzbj#99613e
   
 
