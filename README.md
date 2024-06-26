@@ -67,9 +67,17 @@ To set up the environment for this project, follow these steps:
 Run the following commands to install the necessary Python packages with their specific versions for DPC_GANs:
 
 ```python
+from dp_cgans import DP_CGAN
+import pandas as pd
+
+def closest_tenth(n):
+  return n - n%10
+num_epochs = 100
+batch_size = closest_tenth(int(num_of_rows/10))
+
 model = DP_CGAN(
-   epochs=num_epochs,
-   batch_size=batch_size,
+   epochs=num_epochs, # number of training epochs
+   batch_size=batch_size, # the size of each batch
    cuda = True,
    log_frequency=True,
    verbose=True,
@@ -80,3 +88,13 @@ model = DP_CGAN(
    discriminator_steps=1,
    private=False,
 )
+
+
+print("Start training model")
+model.fit(training_data)
+model.save(f"/content/gdrive/MyDrive/Notebooks/test data/generated data/generator_chapter_{dataset_number}.pkl")
+# modify this to run on your accounts
+# model.save(f"PATH TO YOUR DRIVE/generator_chapter_{dataset_number}.pkl")
+
+# Generate new synthetic rows
+syn_data = model.sample(num_of_rows)
