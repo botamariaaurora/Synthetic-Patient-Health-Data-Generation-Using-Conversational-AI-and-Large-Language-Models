@@ -64,3 +64,19 @@ To set up the environment for this project, follow these steps:
    pip install -q datasets bitsandbytes einops wandb
 
 # 🐍: Use with Python
+Run the following commands to install the necessary Python packages with their specific versions for DPC_GANs:
+
+   ```bash
+model = DP_CGAN(
+   epochs=100,
+   batch_size=closest_tenth(int(num_of_rows/10)),
+   cuda = True,
+   log_frequency=True,
+   verbose=True,
+   generator_dim=(128, 128, 128),
+   discriminator_dim=(128, 128, 128),
+   generator_lr=2e-4,
+   discriminator_lr=2e-4,
+   discriminator_steps=1,
+   private=False,
+)
