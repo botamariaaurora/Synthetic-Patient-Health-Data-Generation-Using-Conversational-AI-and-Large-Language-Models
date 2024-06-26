@@ -40,8 +40,8 @@ To facilitate the reproducibility of our results, we have organized the code und
   
 # Installation
 You will need to install specific versions for DPC_GANs
-Bash
-'''pip install sdv==1.6.0'''
-'''pip install rdt==1.9.0'''
-'''pip install dp_cgans==0.0.6'''
+'''bash
+pip install sdv==1.6.0
+pip install rdt==1.9.0
+pip install dp_cgans==0.0.6
 
