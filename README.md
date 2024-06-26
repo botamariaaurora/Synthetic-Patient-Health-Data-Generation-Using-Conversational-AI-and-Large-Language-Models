@@ -41,7 +41,7 @@ To facilitate the reproducibility of our results, we have organized the code und
 * **Final Report:** https://www.overleaf.com/read/mpxmqzktdzbj#99613e
   
 
-## Installation
+# :computer: Installation
 
 To set up the environment for this project, follow these steps:
 
