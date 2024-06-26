@@ -64,7 +64,8 @@ To set up the environment for this project, follow these steps:
    !pip install -q datasets bitsandbytes einops wandb
 
 # 🐍 Use with Python
-Run the following commands to install the necessary Python packages with their specific versions for DPC_GANs:
+
+If your input is tabular data, for DPC_GANs run the following code:
 
 ```python
 from dp_cgans import DP_CGAN
