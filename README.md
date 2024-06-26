@@ -98,3 +98,7 @@ model.save(f"/content/gdrive/MyDrive/Notebooks/test data/generated data/generato
 
 # Generate new synthetic rows
 syn_data = model.sample(num_of_rows)
+
+syn_data.to_csv(f"/content/gdrive/MyDrive/Notebooks/test data/generated data/syn_data_chapter_{dataset_number}.csv")
+# modify this to run on your accounts
+# syn_data.to_csv(f"PATH TO YOUR DRIVE/syn_data_chapter_{dataset_number}.csv")
