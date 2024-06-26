@@ -1,5 +1,8 @@
 # Synthetic-Patient-Health-Data-Generation-Using-Conversational-AI-and-Large-Language-Models
 
+This GitHub repository holds the research work focusing on generating synthetic tabular data using DPC-GANs combined
+Large Language Model Lamma 2(shraded version)
+
 *Abstract:* 
 Advanced generative models like Generative Adversarial Networks (GANs) and Diffusion Models have
 demonstrated their capability in creating realistic synthetic patient records, including Electronic Health
