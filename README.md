@@ -20,6 +20,11 @@ data with 20 important diabetes observations based on the US population” or in
 real-world data and guidelines used for synthesizing data. This approach seeks to make generative models
 more accessible and practical for healthcare professionals, bridging the gap between complex AI
 technologies and everyday clinical applications.
+
+Code Reproducibility
+
+To facilitate the reproducibility of our results, we have organized the code under the 'Notebooks' section. Each notebook runs on Google Colaboratory and within this section corresponds to a singular experiment, allowing for an in-depth review of our findings. The 'Final Dataset' folder, located under 'Notebooks,' includes two different chapter files which used for training and generating synthetic data.
+
 # **Phase 1:**
 * **🤔 State of the art papers**: https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
 
@@ -34,10 +39,13 @@ technologies and everyday clinical applications.
 * **📅 Next Scheduled Meetings:** 6.03.2024 10:00-10:45, 15.03.2024 13:15-14:00
 
 * **Gannt Chart Draft:** https://drive.google.com/file/d/1ED0JKXPVFLZJsBbJJVSB00ql_BM9DXMM/view?usp=sharing
-* **Layman's Blog Post:** https://drive.google.com/file/d/1sv6Im0dQi9PFF6GMNrOiutpH5TRHC7w0/view?usp=share_link
 
 * **Report:** https://www.overleaf.com/2996128184nyxkhtnzxvsv#6efd5f
+
 # **Phase 2:**
 * **Task division:** https://docs.google.com/document/d/1d6dnG-uJXu1UF4h7IHu0oszDZylle-ubn2bHmILzZhI/edit?usp=sharing
 * **Agenda 07.05.2024:** https://docs.google.com/document/d/1k7B-N7keAZUcvgVRXHzchoxkHoJlotUT94LocM_BQfc/edit?usp=sharing
 * **Drive Link:** https://drive.google.com/drive/folders/1RIBgXQPFIJhbWA4kMKijyY5QPRc9K4gn?usp=sharing
+* **Layman's Blog Post:** https://drive.google.com/file/d/1sv6Im0dQi9PFF6GMNrOiutpH5TRHC7w0/view?usp=share_link
+
+* # **Phase 3:**
