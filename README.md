@@ -50,9 +50,9 @@ To set up the environment for this project, follow these steps:
    Run the following commands to install the necessary Python packages with their specific versions for DPC_GANs:
 
    ```bash
-   pip install sdv==1.6.0 
-   pip install rdt==1.9.0  
-   pip install dp_cgans==0.0.6
+   !pip install sdv==1.6.0 
+   !pip install rdt==1.9.0  
+   !pip install dp_cgans==0.0.6
 
 
 1. **Install required packages:**
@@ -60,8 +60,8 @@ To set up the environment for this project, follow these steps:
    Run the following commands to install the necessary Python packages for LLM:
 
    ```bash
-   pip install -q -U trl transformers accelerate git+[https://github.com/huggingface/peft.git (https://github.com/huggingface/peft.git)
-   pip install -q datasets bitsandbytes einops wandb
+   !pip install -q -U trl transformers accelerate git+[https://github.com/huggingface/peft.git (https://github.com/huggingface/peft.git)
+   !pip install -q datasets bitsandbytes einops wandb
 
 # 🐍: Use with Python
 Run the following commands to install the necessary Python packages with their specific versions for DPC_GANs:
