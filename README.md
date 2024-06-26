@@ -37,6 +37,7 @@ To facilitate the reproducibility of our results, we have organized the code und
 
 * # **Phase 3:**
 * **Agenda 17.06.2024:** https://drive.google.com/file/d/1W9zvD328VkMqAaygsCHjM8CRJOgWNmDq/view?usp=sharing
+* ** General Description of MIMIC-III Dataset** https://drive.google.com/file/d/1QXnZpV1gbLHdvsBngTy_aI-lX7x7HBZu/view?usp=sharing
 * **Final Report** https://www.overleaf.com/read/mpxmqzktdzbj#99613e
   
 
