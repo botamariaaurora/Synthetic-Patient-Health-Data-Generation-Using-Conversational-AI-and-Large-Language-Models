@@ -1,5 +1,9 @@
 # Synthetic-Patient-Health-Data-Generation-Using-Conversational-AI-and-Large-Language-Models
 
+This GitHub repository holds the research work focusing on generating synthetic tabular data using DPC-GANs combined
+Large Language Model Lamma 2(shraded version)
+
+*Abstract:* 
 Advanced generative models like Generative Adversarial Networks (GANs) and Diffusion Models have
 demonstrated their capability in creating realistic synthetic patient records, including Electronic Health
 Records (EHR), CT scans, EEG, and ECG data. These models utilize real-world patient data to simulate and
@@ -12,7 +16,7 @@ direct human input for generating or modifying synthetic data.
 
 In response to these challenges, this project aims to develop a conversational AI tool capable of
 incorporating human input to generate synthetic patient health data. The suggested approach combines
-LLM models such as Clinical BERT, Llama 2, Chat-GPT with GANs for patient EHR data. This tool would enable
+LLM model LlaMA-2 Chat-7B-HF with DPC-GANs for patient EHR data. This tool would enable
 healthcare professionals to make specific requests, such as “generate 2000 Type 2 diabetes patients EHR
 data with 20 important diabetes observations based on the US population” or inquire about the sources of
 real-world data and guidelines used for synthesizing data. This approach seeks to make generative models
