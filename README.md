@@ -54,8 +54,16 @@ To set up the environment for this project, follow these steps:
 
   
 
-   Run the following commands to install the necessary Python packages for LLM:
+  Markdown
+## Installation
+
+To set up the environment for this project, follow these steps:
+
+1. **Install required packages:**
+
+   Open a terminal or command prompt and navigate to your project directory. Then, run the following commands to install the necessary Python packages:
 
    ```bash
    pip install -q -U trl transformers accelerate git+[https://github.com/huggingface/peft.git](https://github.com/huggingface/peft.git)
    pip install -q datasets bitsandbytes einops wandb
+Χρησιμοποιήστε τον κώδικα με προσοχή.
