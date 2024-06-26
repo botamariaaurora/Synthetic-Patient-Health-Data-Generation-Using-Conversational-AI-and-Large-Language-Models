@@ -55,7 +55,7 @@ To set up the environment for this project, follow these steps:
 
 1. **Install required packages:**
 
-   Run the following commands to install the necessary Python packages:
+   Run the following commands to install the necessary Python packages for LLM:
 
    ```bash
    pip install -q -U trl transformers accelerate git+[https://github.com/huggingface/peft.git (https://github.com/huggingface/peft.git)
