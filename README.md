@@ -63,7 +63,7 @@ To set up the environment for this project, follow these steps:
    !pip install -q -U trl transformers accelerate git+[https://github.com/huggingface/peft.git (https://github.com/huggingface/peft.git)
    !pip install -q datasets bitsandbytes einops wandb
 
-# 🐍: Use with Python
+# 🐍 Use with Python
 Run the following commands to install the necessary Python packages with their specific versions for DPC_GANs:
 
 ```python
