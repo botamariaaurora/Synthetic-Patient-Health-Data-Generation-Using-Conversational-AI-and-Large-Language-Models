@@ -66,7 +66,17 @@ To set up the environment for this project, follow these steps:
 # 🐍: Use with Python
 Run the following commands to install the necessary Python packages with their specific versions for DPC_GANs:
 
-```bash
-!pip install sdv==1.6.0
-!pip install rdt==1.9.0
-!pip install dp_cgans==0.0.6
+```python
+model = DP_CGAN(
+   epochs=num_epochs,
+   batch_size=batch_size,
+   cuda = True,
+   log_frequency=True,
+   verbose=True,
+   generator_dim=(128, 128, 128),
+   discriminator_dim=(128, 128, 128),
+   generator_lr=2e-4,
+   discriminator_lr=2e-4,
+   discriminator_steps=1,
+   private=False,
+)
