@@ -34,6 +34,7 @@ technologies and everyday clinical applications.
 * **📅 Next Scheduled Meetings:** 6.03.2024 10:00-10:45, 15.03.2024 13:15-14:00
 
 * **Gannt Chart Draft:** https://drive.google.com/file/d/1ED0JKXPVFLZJsBbJJVSB00ql_BM9DXMM/view?usp=sharing
+* **Layman's Blog Post:** https://drive.google.com/file/d/1sv6Im0dQi9PFF6GMNrOiutpH5TRHC7w0/view?usp=share_link
 
 * **Report:** https://www.overleaf.com/2996128184nyxkhtnzxvsv#6efd5f
 # **Phase 2:**
