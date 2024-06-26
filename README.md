@@ -1,6 +1,6 @@
 # Synthetic-Patient-Health-Data-Generation-Using-Conversational-AI-and-Large-Language-Models
 
-Advanced generative models like Generative Adversarial Networks (GANs) and Diffusion Models have
+#Abstract:Advanced generative models like Generative Adversarial Networks (GANs) and Diffusion Models have
 demonstrated their capability in creating realistic synthetic patient records, including Electronic Health
 Records (EHR), CT scans, EEG, and ECG data. These models utilize real-world patient data to simulate and
 produce synthetic data that closely mirrors the statistical and structural properties of the original data.
