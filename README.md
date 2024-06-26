@@ -10,7 +10,7 @@ incorporating human input to generate synthetic patient health data. Our approac
 
 Code Reproducibility
 
-To facilitate the reproducibility of our results, we have organized the code under the 'Notebooks' section. Each notebook runs on Google Colaboratory and within this section corresponds to a singular experiment, allowing for an in-depth review of our findings. Navigating into 'Notebook' section you will find the code on how we trained DP_GANs, the preprocess of our final dataset, the fine tuning of our LLM model, the evaluation of generated synthetic data and the evaluation of the final results.The 'Final Dataset' folder, located under 'Notebooks,' includes two different chapter files. After splitting the whole dataset intro different chapters we chose 4 and 6 for training and generating synthetic data.
+To facilitate the reproducibility of our results, we have organized the code under the 'Notebooks' section. Each notebook runs on Google Colaboratory and within this section corresponds to a singular experiment, allowing for an in-depth review of our findings. Navigating into 'Notebook' section you will find the code on how we trained DP_GANs, the preprocess of our final dataset, the fine tuning of our LLM model, the evaluation of generated synthetic data and the evaluation of the final results. The 'Final_datasets' folder, located under 'Notebooks,' includes two different chapter files. After splitting the whole dataset into different chapters we chose 4 and 6 csv files for training and generating synthetic data. Finally you can also have a look at 'Supervisor Notes' that we took as a group during different phases with out supervisor.
 
 # **Phase 1:**
 * **🤔 State of the art papers**: https://docs.google.com/document/d/14fAp4seVLp1mbdW4lItT5j0s4gk4LaIIgoO71ObmHDw/edit?usp=sharing
@@ -38,3 +38,4 @@ To facilitate the reproducibility of our results, we have organized the code und
 * # **Phase 3:**
 * **Final Report**
   
+# Installation
