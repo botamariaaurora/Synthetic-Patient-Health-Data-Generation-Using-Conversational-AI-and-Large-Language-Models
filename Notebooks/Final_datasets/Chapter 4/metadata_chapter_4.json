@@ -1,0 +1,41 @@
+{
+    "columns": {
+        "gender": {
+            "sdtype": "categorical"
+        },
+        "age": {
+            "sdtype": "numerical"
+        },
+        "ethnicity": {
+            "sdtype": "categorical"
+        },
+        "admission_type": {
+            "sdtype": "categorical"
+        },
+        "primary_icd9_label": {
+            "sdtype": "categorical"
+        },
+        "num_of_icd9_codes": {
+            "sdtype": "numerical"
+        },
+        "hospital_expire_flag": {
+            "sdtype": "categorical"
+        },
+        "hospital_stay_hours": {
+            "sdtype": "numerical"
+        },
+        "BMI": {
+            "sdtype": "numerical"
+        },
+        "Hemoglobine": {
+            "sdtype": "numerical"
+        },
+        "Hematocrit": {
+            "sdtype": "numerical"
+        },
+        "WBC": {
+            "sdtype": "numerical"
+        }
+    },
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1"
+}
